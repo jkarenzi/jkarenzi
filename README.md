@@ -8,11 +8,12 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karenzi-manzi-joslyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-karenzi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karenzi-manzi-joslyn-a1b848255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-karenzi" height="30" width="40" /></a>
 </p>
 
   
 ## 🛠 Skills
+
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -31,7 +32,7 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
-Frameworks
+
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right: 10px;" />
@@ -58,7 +59,7 @@ Frameworks
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40" style="margin-right: 10px;" />
   </a>
 </p>
-Tools
+
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin-right: 10px;" />

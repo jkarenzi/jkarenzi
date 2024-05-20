@@ -27,7 +27,7 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
 </p>
 
 ### Frameworks
-<p align="left">
+<p align="left" style="display:flex;gap:1rem;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
@@ -70,9 +70,6 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
   </a>
   <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="VSCode" />
   </a>
 </p>
 

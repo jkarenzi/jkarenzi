@@ -11,7 +11,7 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
 ## 🛠 Skills
 
 ### Languages
-<p align="left">
+<p align="left" style="display:flex;gap:2rem;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   </a>

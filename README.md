@@ -26,5 +26,7 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
+###Github Stats
 ![jkarenzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkarenzi&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkarenzi&layout=compact&theme=radical)

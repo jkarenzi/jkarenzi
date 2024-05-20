@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-<!--
-**jkarenzi/jkarenzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I'm Joslyn Manzi Karenzi, a software engineering student
+I'm Joslyn Manzi Karenzi, a software engineering student.
 
 - 🔭 I’m based in Kigali, Rwanda.
-- 🌱 I’m currently learning TypeScript and postgreSQL.
+- 🌱 I’m currently learning TypeScript and PostgreSQL.
 - 📫 How to reach me: j.karenzi@alustudent.com
 
 ## 🛠 Skills
@@ -33,4 +30,3 @@ I'm Joslyn Manzi Karenzi, a software engineering student
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jkarenzi&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkarenzi&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=jkarenzi&color=blue)
--->

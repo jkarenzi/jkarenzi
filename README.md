@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Joslyn Manzi Karenzi, a software engineering student.
 
@@ -84,7 +84,7 @@ I'm Joslyn Manzi Karenzi, a software engineering student.
   </a>
 </p>
 
-### My Github Stats
+## My Github Stats
 <a href="http://www.github.com/jkarenzi"><img src="https://github-readme-stats.vercel.app/api?username=jkarenzi&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="jkarenzi's GitHub stats" /></a>
 
 <a href="https://github.com/jkarenzi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkarenzi&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

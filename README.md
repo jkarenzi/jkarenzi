@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Joslyn Manzi Karenzi, a software engineering student.
+I'm Joslyn Manzi Karenzi. I am a passionate software developer, with a strong foundation in web technologies. My skill set spans from crafting elegant user interfaces with modern frontend frameworks to designing robust server-side architectures that ensure efficiency and scalability.
 
 - 🔭 I’m based in Kigali, Rwanda.
 - 🌱 I’m currently learning TypeScript and PostgreSQL.
